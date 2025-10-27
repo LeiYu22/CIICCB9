@@ -10,4 +10,6 @@ public class Task2 {
         String output = "" + c1 + s + i + i + c2 + i + "r" + s + "d " + f + " " + bool;
 
         System.out.println(output);
+        
       
+        
