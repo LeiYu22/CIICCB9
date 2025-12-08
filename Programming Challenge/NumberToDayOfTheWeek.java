@@ -1,5 +1,5 @@
 import java.util.*;
-public class PC3NumberToDayOfTheWeek{
+public class NumberToDayOfTheWeek{
     public static void main(String[] args) {
         int day;
 

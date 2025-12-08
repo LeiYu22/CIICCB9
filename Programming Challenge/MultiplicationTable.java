@@ -1,4 +1,5 @@
-public class PC7MultiplicationTable {
+
+public class MultiplicationTable {
     public static void main(String[] args) {
         
         int num = 10;
@@ -8,5 +9,7 @@ public class PC7MultiplicationTable {
             }
             System.out.println();
         }
+
+
     }
 }

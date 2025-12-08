@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PC9CheckVowelConsonant {
+public class CheckVowelConsonant {
 
     public static boolean isVowel(char c) {
         c  = Character.toLowerCase(c);
@@ -8,7 +8,11 @@ public class PC9CheckVowelConsonant {
 
     public static boolean isConsonant(char c){
         return Character.isLetter(c) && !isVowel(c);
+       
     }
+
+
+
     
     public static void main(String[] args) {
         Scanner in = new Scanner (System.in);

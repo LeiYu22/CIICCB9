@@ -1,5 +1,5 @@
 import java.util.*;
-public class PC11StringBldr {
+public class StringBldr {
     public static void main(String[] args) {
         Scanner in = new Scanner (System.in);
         StringBuilder sb = new StringBuilder();

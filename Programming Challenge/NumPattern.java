@@ -1,5 +1,5 @@
 import java.util.*;
-public class PC6NumPattern{
+public class NumPattern{
     public static void main (String[] args){
         int num;
         Scanner in = new Scanner (System.in);

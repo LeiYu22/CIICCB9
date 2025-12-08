@@ -1,11 +1,11 @@
 import java.util.*;
-public class PC5SumOfAllInt {
+public class SumOfAllIntNum {
     public static void main(String[] args) {
         int num, total=0;
 
         Scanner in = new Scanner (System.in);
 
-        System.out.println("Enter Number to Sum. Press 0 to stop");
+        System.out.println("Enter num to sum. Press 0 to stop");
         while (true){
             System.out.println("Enter a Number:");
             num = in.nextInt();
@@ -16,6 +16,6 @@ public class PC5SumOfAllInt {
 
             total +=num;
         }
-        System.out.println("Sum of Entered Numbers " + total);
+        System.out.println("Sum of entered nums " + total);
     }
 }

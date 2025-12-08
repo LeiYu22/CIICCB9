@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PC8StringMethod {
+public class StringMethod {
     public static void main(String[] args) {
         Scanner in = new Scanner (System.in);
 
